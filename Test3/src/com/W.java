@@ -5,9 +5,10 @@ public class W {
 		System.out.println("2");
 		System.out.println("2");
 		System.out.println("2");
-		System.out.println("2");
-		System.out.println("2");
-		System.out.println("2");
-		System.out.println("2");
+		System.out.println("aaa");
+		System.out.println("aaa");
+		System.out.println("aaa");
+		System.out.println("aaa");
+		System.out.println("aaa");
 	}
 }
